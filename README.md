@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Aziz Chowdhury
 
-<!--
-**aaziz98/aaziz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Machine+Learning+%26+Computer+Vision;Infrastructure+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/aaziz98">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ac.abdulaziz98@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+8801749285214">
+    <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am a **Computer Science graduate** with hands-on experience in **machine learning**, **deep learning**, and **computer vision**, and practical exposure to infrastructure and construction technology. I enjoy applying data analytics and ML to real-world operational problems in construction and infrastructure.
+
+**Current study:** MSc in Computer Science — *University of Wollongong, Australia*  
+**Location:** Dhaka, Bangladesh
+
+> **From my CV:** "Computer Science graduate with academic experience in machine learning and computer vision, and practical exposure to construction and infrastructure operations."
+
+---
+
+## 💼 Key Projects & Research
+
+### 🧠 Real-Time Driver Drowsiness Detection (Senior Design Project)
+**Technologies:** Python, LSTM, MediaPipe, IoT  
+**Summary:** Real-time system using LSTM and facial landmark analysis to detect driver drowsiness from respiratory and facial signals; raises alerts to improve road safety.
+
+### 🏭 Visual Pollution Classification (Research Project)
+**Technologies:** Deep learning, Faster R-CNN, YOLO family, EfficientDet, dataset labeling  
+**Summary:** Research-focused project classifying visual pollution in textile industry and urban imagery; compared multiple detection models and built dataset labeling pipelines.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Tools:** Python, NumPy, Pandas, OpenCV, MediaPipe  
+- **Machine Learning:** Deep Learning (CNN, LSTM), Object Detection, Image Segmentation  
+- **Modeling & Evaluation:** Data preprocessing, dataset labeling, model training, performance evaluation  
+- **Other:** Git, basic IoT integration, real-time data processing
+
+---
+
+## 🎓 Education
+
+- **MSc in Computer Science** — *University of Wollongong, Australia* (current)  
+- **BSc in Computer Science and Engineering** — *North South University* (Completed 2022)
+
+---
+
+## 📄 Publications
+
+- **Deep-Learning-Based Real-Time Visual Pollution Detection in Urban and Textile Environments** — Published 11 January 2024.  
+  *(See CV for DOI and publication details.)*
+
+---
+
+## 📞 Contact
+
+- **Email:** ac.abdulaziz98@gmail.com  
+- **Phone:** +8801749285214  
+- **Location:** Mirpur 6, Dhaka, Bangladesh  
+- **GitHub:** https://github.com/aaziz98
+
+---
+
+## 🔗 Quick Links
+
+- Portfolio / Publications: (add link here)  
+- LinkedIn: (add link here)  
+- CV (uploaded): `CV.pdf` (place your CV file in the repo root and link it here)
+
+---
+
+## ✨ Notes for the repo owner
+
+- I removed the certificate gallery and badge sections as requested — they are not included in this account's README.  
+- Replace placeholder links (Portfolio, LinkedIn) with your actual URLs.  
+- Add `CV.pdf` to the repository root and update the "CV (uploaded)" link if you want the file downloadable from the README.
+
+---
+
+If you want, I can:
+- Convert this into a ready-to-commit `README.md` file and show the exact git commands to add and push it to `github.com/aaziz98`.
+- Generate a compact "one-page" README variant for your profile bio.
+- Insert badges (languages, activity) that pull from your GitHub username.
+
+Which of these would you like next?
