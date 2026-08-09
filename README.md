@@ -71,27 +71,4 @@ I am a **Computer Science graduate** with hands-on experience in **machine learn
 - **Location:** Campbelltown,Sydney,Australia 
 - **GitHub:** https://github.com/aaziz98
 
----
 
-## 🔗 Quick Links
-
-- Portfolio / Publications: (add link here)  
-- LinkedIn: (add link here)  
-- CV (uploaded): `CV.pdf` (place your CV file in the repo root and link it here)
-
----
-
-## ✨ Notes for the repo owner
-
-- I removed the certificate gallery and badge sections as requested — they are not included in this account's README.  
-- Replace placeholder links (Portfolio, LinkedIn) with your actual URLs.  
-- Add `CV.pdf` to the repository root and update the "CV (uploaded)" link if you want the file downloadable from the README.
-
----
-
-If you want, I can:
-- Convert this into a ready-to-commit `README.md` file and show the exact git commands to add and push it to `github.com/aaziz98`.
-- Generate a compact "one-page" README variant for your profile bio.
-- Insert badges (languages, activity) that pull from your GitHub username.
-
-Which of these would you like next?
