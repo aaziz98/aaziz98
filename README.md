@@ -11,7 +11,7 @@
   <a href="mailto:ac.abdulaziz98@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+61451460809">
+  <a href="tel:+610451460809">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </div>
